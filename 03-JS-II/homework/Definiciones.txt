@@ -1,0 +1,7 @@
+
+For: imagina que debes subir unas escaleras de varios peldaños, pero para dar cada paso tienes que cumplir unos requisitos. Si no pasas algún requisito las escaleras te van arrojar a un lugar fuera. Cuando hablamos de for tú vas a definir tres cosas: el escalón desde donde empiezas a subir, las condiciones que debes pasar para subir el escalón, y, finalmente, de a cuántos escalones puedes subir una vez has pasado los requisitos. Seguido a esto vas a poner lo que puedes hacer en los escales. Imagina, por decir, que en cada escalón puedes saltar 5 veces, gritar dos veces o dormir por 5 minutos. 
+
+||: te indica que entre un postre de mora y uno de guayaba, puedes escoger uno de ellos o los dos. 
+&&: te indica que de los mismos postres debes coger los dos. No es negociable si no te gusta el de guayaba. 
+!: te dice siempre lo que quieres escuchar. Te lo explico así: tú quieres ir al parque pero tu mamá dice “no” si le agregamos a ese “no” el ! al principio, tendremos lo que queremos oír. Es decir que puede ir. ! Nos devuelve lo contrario a lo que está después.
+
